@@ -1,0 +1,3 @@
+rootProject.name = 'SendDataAPI'
+
+include ':app'
